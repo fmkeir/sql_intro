@@ -74,5 +74,3 @@ UPDATE movies SET show_time = '20:45' WHERE title = 'Iron Man 3';
 -- Extension
 DELETE FROM movies WHERE id > 4;
 SELECT * FROM movies;
-DELETE FROM people WHERE name =* '%Simpson';
-SELECT * FROM people;
